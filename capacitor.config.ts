@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'co.shortwavaudio.ionic-demo',
   appName: 'ionic-demo',
   webDir: 'dist',
   bundledWebRuntime: false
